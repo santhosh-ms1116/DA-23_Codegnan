@@ -31,7 +31,7 @@ elif num < 0 and num % 2 == 0:
     print("Negative Even Number")
 elif num < 0 and num % 2 != 0:
     print("Negative Odd Number")
-elif num > 0 and num % 2 == 0:
+ elif num > 0 and num % 2 == 0:
     print("Even Number")
 else:
     print("Odd Number")
